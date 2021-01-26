@@ -2,9 +2,7 @@
   "author": {
     "name": "Tabcorp Digital Team"
   },
-  "contributors": [
-    "Bryan Keller <b@bk.gg> (https://github.com/widget-)"
-  ],
+  "contributors": ["Ehxor (https://www.npmjs.com/~ehxor)", "Bryan Keller <b@bk.gg> (https://github.com/widget-)"],
   "dependencies": {
     "minimist": "^1.2.5"
   },
@@ -18,10 +16,10 @@
   },
   "license": "MIT",
   "main": "src/index.js",
-  "name": "mocha-tags",
-  "repository": "https://github.com/widget-/mocha-tags",
+  "name": "mocha-tags-fork",
+  "repository": "https://github.com/bernard-leech/mocha-tags",
   "scripts": {
     "test": "mocha"
   },
-  "version": "1.0.2"
+  "version": "1.0.3"
 }

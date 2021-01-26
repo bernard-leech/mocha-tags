@@ -1,0 +1,19 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 11
+  },
+  "env": {
+    "node": true,
+    "browser": true,
+    "es6": true,
+    "mocha": true
+  },
+  "globals": {
+    "browser": "readonly",
+    "expect": "readonly"
+  },
+  "extends": ["eslint:recommended"],
+  "rules": {
+    "no-extra-semi": "off"
+  }
+}

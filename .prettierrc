@@ -1,0 +1,16 @@
+alignTernaryLines: false
+arrowParens: "avoid"
+bracketSpacing: true
+generatorStarSpacing: true
+jsxBracketSameLine: false
+jsxSingleQuote: true
+parser: "babel-flow"
+printWidth: 120
+quoteProps: "as-needed"
+semi: false
+singleQuote: true
+spaceBeforeFunctionParen: true
+tabWidth: 2
+trailingComma: "none"
+useTabs: false
+yieldStarSpacing: true
